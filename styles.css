@@ -1,0 +1,13 @@
+.navbar-brand
+{
+    font-size: larger;
+}
+
+.mt-6 {
+    margin-top: 4rem;
+}
+
+.table-education {
+    border-collapse: separate;
+    border-spacing: 2.5em;
+}
